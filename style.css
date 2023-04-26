@@ -56,9 +56,18 @@ input {
     height: 535px;
 }
 
+
+#Diary1:hover {
+    transform: scale(0.9);
+}
+
 #Diary7{
     width: 350px;
     height: 535px;
+}
+
+#Diary7:hover {
+    transform: scale(0.9);
 }
 
 #Harry1{
@@ -66,9 +75,17 @@ input {
     height: 535px;
 }
 
+#Harry1:hover {
+    transform: scale(0.9);
+}
+
 #Diary12{
     width: 350px;
     height: 535px;
+}
+
+#Diary12:hover {
+    transform: scale(0.9);
 }
 
 #dog-man5{
